@@ -20,6 +20,8 @@ public class Max {
 			   
 			   System.out.println(c);
 			   
+			   
+			   
 			   a=b ;//1 
 			   b=c; //1
 
