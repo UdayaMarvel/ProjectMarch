@@ -22,7 +22,8 @@ public class Max {
 			   
 			   System.out.println("c");
 			   
-			   
+			   System.out.println("c");
+
 			   
 			   
 			   a=b ;//1 
