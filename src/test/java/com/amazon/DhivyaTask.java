@@ -17,6 +17,8 @@ public class DhivyaTask {
                 }
             }
         }
+        
+        
 
         System.out.println("Ascending Order:");
         for (int i = 0; i < a.length; i++) {
@@ -38,5 +40,9 @@ public class DhivyaTask {
         for (int i = 0; i < a.length; i++) {
             System.out.println(a[i]);
         }
+    
+    
+        
+    
     }
 }
